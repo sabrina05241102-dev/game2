@@ -13,4 +13,5 @@
 
 Godot 4.7.2，WebGL 2 相容渲染，單執行緒版本。
 網頁包約 50 MB，首次載入時間會依網路速度而異。
-此包尚未部署到公開網站。
+公開遊戲網址：https://sabrina05241102-dev.github.io/game2/
+發布分支：GitHub Pages gh-pages。
